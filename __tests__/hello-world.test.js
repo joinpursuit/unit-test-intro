@@ -1,4 +1,4 @@
-const { helloWorld, helloName, returnHelloName, returnHelloWorld } = require("./../problems/1.intro.js")
+const { helloWorld, helloName, returnHelloName, returnHelloWorld } = require("./../problems/hello-world.js")
 
 describe("1. log helloWorld", () => {
   test("Outputs the right answer", ()=> {
