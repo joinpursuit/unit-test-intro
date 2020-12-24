@@ -16,7 +16,7 @@ function helloWorld() {
  * @returns undefined
  */
 function helloName(name) {
-  console.log("hello " + name)
+  console.log(`hello ${name}`)
 }
 
 /**
